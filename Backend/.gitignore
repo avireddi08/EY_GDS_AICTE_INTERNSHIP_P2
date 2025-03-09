@@ -16,7 +16,7 @@ logs/
 dist/
 build/
 
-# IDE specific files (example for VSCode)
+# IDE specific files
 .vscode/
 
 # OS-specific files
